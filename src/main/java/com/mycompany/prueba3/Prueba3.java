@@ -1,6 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+//MODIFICACION REALIZADA EN LOCAL 
 package com.mycompany.prueba3;
 
 import java.util.InputMismatchException;
